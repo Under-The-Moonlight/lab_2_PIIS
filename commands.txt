@@ -1,0 +1,13 @@
+1
+python pacman.py -p ReflexAgent -g RandomGhost -k 2
+python pacman.py -p ReflexAgent -g DirectionalGhost -k 2
+
+2
+minimax
+python autograder.py -q q2
+
+alpha-beta
+python autograder.py -q q3
+
+expectimax
+python autograder.py -q q4
